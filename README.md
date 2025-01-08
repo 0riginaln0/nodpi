@@ -1,5 +1,17 @@
 # No DPI
 
+Alternatives: [zapret](https://github.com/bol-van/zapret)
+
+Pros and Cons of No DPI compared with Zapret:
+
+pros:
+- Doesn't break other sites (at least for me)
+- Just a Python script. Not a Linux Service.
+
+cons:
+- Works only for youtube
+- You need to change the proxy configuration in the browser
+
 ## How to use
 
 Requires: Python >= 3.8
