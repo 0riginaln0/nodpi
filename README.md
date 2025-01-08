@@ -6,7 +6,7 @@ Pros and Cons of No DPI in comparison with Zapret:
 
 pros:
 - Doesn't break other sites (at least for me)
-- Just a Python script. Not a Linux Service.
+- Just a Python script. Not a Linux Service
 - Easier to set up
 
 cons:
@@ -23,6 +23,7 @@ Requires: Python >= 3.8
 5) Configure browser to use proxy on 127.0.0.1:8881
 6) Add the path to nodpi into your ENV.
 7) run `nodpi`
+8) `ctrl + c` to stop
 ![browser setting](nodpi_browser_setting.png)
 
 
