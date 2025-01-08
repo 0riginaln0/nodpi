@@ -2,7 +2,7 @@
 
 Alternatives: [zapret](https://github.com/bol-van/zapret)
 
-Pros and Cons of No DPI compared with Zapret:
+Pros and Cons of No DPI in comparison with Zapret:
 
 pros:
 - Doesn't break other sites (at least for me)
