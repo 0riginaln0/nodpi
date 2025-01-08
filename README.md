@@ -7,6 +7,7 @@ Pros and Cons of No DPI in comparison with Zapret:
 pros:
 - Doesn't break other sites (at least for me)
 - Just a Python script. Not a Linux Service.
+- Easier to set up
 
 cons:
 - Works only for youtube
