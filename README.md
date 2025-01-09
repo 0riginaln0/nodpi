@@ -17,7 +17,13 @@ cons:
 
 Requires: Python >= 3.8
 
-1) Download files: blacklist.txt, nodpi.py or nodpi.
+### Short way
+1) Download: blacklist.txt, nodpi.py and put them in the same folder.
+2) Configure browser to use proxy on 127.0.0.1:8881
+3) Double click on nodpi.py
+
+### Long way
+1) Download files: blacklist.txt and nodpi.
 2) `chmod +x` nodpi.
 3) Insert your global path to blacklist.txt in the blacklistpath variable.
 5) Configure browser to use proxy on 127.0.0.1:8881
