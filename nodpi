@@ -106,6 +106,9 @@ async def new_conn(
 
     TASKS.append(create_task(pipe(local_reader, remote_writer)))
     TASKS.append(create_task(pipe(remote_reader, local_writer)))
+    while len(TASKS) > 100:
+        TASKS.pop(0)
+
 
 
 async def spinner():
